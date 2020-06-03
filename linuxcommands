@@ -1,0 +1,10 @@
+ls- list
+cd- change directory
+chown- change ownership
+chmod- change permission
+pwd- present working directory
+mkdir- creates new directory
+cp- copy a file
+rm- removes a file
+touch,vi- creates a new file
+
