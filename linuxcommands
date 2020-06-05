@@ -1,10 +1,25 @@
-ls- list
+ls- list of files
 cd- change directory
+cd..-go back to previous dir
 chown- change ownership
 chmod- change permission
 pwd- present working directory
 mkdir- creates new directory
 cp- copy a file
-rm- removes a file
-touch,vi- creates a new file
+rm- deletes files and directories
+touch- creates a new file
+nano,vi- text editors
+chgrp- change group ownership
+ping- check the connection to server
+man- manual for command
+locate- to locate a file in system
+cat- display the file
+df- shows disk usage
+du- shows directory space usage
+head- output first 10 lines of file
+tail- output last 10 lines of file
+sed- stream editor
+grep- search text and files 
+sort- sorting lines and text files
+
 
